@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 # App-Catalogo-Produtos-React-TailwindCSS
 Aplicativo web utilizando React e TailwindCSS que funciona como um catálogo de produtos.
 =======
-<<<<<<< HEAD
-# App-Catalogo-Produtos-React-TailwindCSS
-Aplicativo web utilizando React e TailwindCSS que funciona como um catálogo de produtos.
-=======
-# App Lista Produto
 
 Este é um projeto de exemplo de uma aplicação em React para exibir uma lista de produtos. Foi desenvolvido como parte de uma avaliação acadêmica.
 
