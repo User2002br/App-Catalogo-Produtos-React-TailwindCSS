@@ -23,7 +23,7 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-repositorio>
+    git clone https://github.com/User2002br/App-Catalogo-Produtos-React-TailwindCSS.git
     cd App-lista-produto
     ```
 
