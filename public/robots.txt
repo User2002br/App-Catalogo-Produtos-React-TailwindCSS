@@ -1,0 +1,19 @@
+# Permite que o Googlebot rastreie todo o site.
+User-agent: Googlebot
+Allow: /
+
+# Permite que o Bingbot rastreie todo o site.
+User-agent: Bingbot
+Allow: /
+
+# Permite que o Twitterbot rastreie todo o site.
+User-agent: Twitterbot
+Allow: /
+
+# Permite que o rastreador do Facebook rastreie todo o site.
+User-agent: facebookexternalhit
+Allow: /
+
+# Permite que todos os outros robôs rastreiem todo o site.
+User-agent: *
+Allow: /
