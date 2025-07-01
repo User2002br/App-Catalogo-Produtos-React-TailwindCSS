@@ -9,7 +9,6 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 
 -   Visualização de uma lista de produtos em formato de cards.
 -   Design responsivo e moderno utilizando Tailwind CSS.
--   Este projeto consome a API pública MockApi que fornece endpoints para produtos e usuários.
 -   Páginas de detalhes para cada produto (funcionalidade de rota implementada).
 -   Formatação de preços para a moeda local (BRL).
 
@@ -20,6 +19,7 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 -   **[Tailwind CSS](https://tailwindcss.com/)**: Framework CSS utility-first para estilização rápida.
 -   **[Lucide React](https://lucide.dev/)**: Biblioteca de ícones SVG.
 -   **[Vite](https://vitejs.dev/)**: Ferramenta de build para desenvolvimento front-end moderno.
+-   **[MockApi](https://mockapi.io/projects/68571fd521f5d3463e54823e)**: API pública MockApi que fornece endpoints para produtos e usuários.
 
 ## Como Executar o Projeto
 
