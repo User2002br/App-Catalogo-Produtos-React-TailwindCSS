@@ -1,6 +1,7 @@
 # App-Catalogo-Produtos-React-TailwindCSS
 Aplicativo web utilizando React e TailwindCSS que funciona como um catálogo de produtos.
-=======
+
+# App Lista Produto
 
 Este é um projeto de exemplo de uma aplicação em React para exibir uma lista de produtos. Foi desenvolvido como parte de uma avaliação acadêmica.
 
@@ -23,7 +24,7 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/User2002br/App-Catalogo-Produtos-React-TailwindCSS.git
+    git clone <url-do-repositorio>
     cd App-lista-produto
     ```
 
@@ -37,3 +38,24 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
     npm run dev
     ```
 
+A aplicação estará disponível em `http://localhost:8000` (ou outra porta indicada no terminal).
+
+## API Utilizada
+
+Este projeto consome a API pública [MockAPI](https://68571fd521f5d3463e54823d.mockapi.io/catalog), que fornece endpoints para produtos e usuários.
+
+- **Base URL:** `https://68571fd521f5d3463e54823d.mockapi.io/catalog`
+- **Endpoints principais:** `/produtos`, `/produtos/:id`, `/users`
+
+## Logins de Teste
+
+Você pode acessar o sistema usando os seguintes usuários de teste cadastrados na API:
+
+- **Administrador**
+  - Usuário: `admin`
+  - Senha: `admin123`
+- **Usuário comum**
+  - Usuário: `user`
+  - Senha: `user123`
+
+Esses logins podem ser utilizados na tela de login para testar diferentes permissões no sistema.
