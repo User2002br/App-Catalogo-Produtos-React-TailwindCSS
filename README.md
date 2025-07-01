@@ -37,12 +37,3 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
     npm run dev
     ```
 
-A aplicação estará disponível em `http://localhost:8000` (ou outra porta indicada no terminal).
-
-## Estrutura dos Componentes
-
-### `ProductCard.jsx`
-
-O componente `ProductCard` é responsável por renderizar um único card de produto na lista. Ele recebe um objeto `produto` como propriedade e exibe informações como imagem, nome, categoria, descrição e preço.
->>>>>>> 5d75eab (Initial commit)
->>>>>>> ae3883b (Initial commit)
