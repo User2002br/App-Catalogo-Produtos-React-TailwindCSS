@@ -9,6 +9,7 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 
 -   Visualização de uma lista de produtos em formato de cards.
 -   Design responsivo e moderno utilizando Tailwind CSS.
+-   Este projeto consome a API pública MockApi que fornece endpoints para produtos e usuários.
 -   Páginas de detalhes para cada produto (funcionalidade de rota implementada).
 -   Formatação de preços para a moeda local (BRL).
 
@@ -40,12 +41,6 @@ Este é um projeto de exemplo de uma aplicação em React para exibir uma lista 
 
 A aplicação estará disponível em `http://localhost:8000` (ou outra porta indicada no terminal).
 
-## API Utilizada
-
-Este projeto consome a API pública [MockAPI](https://68571fd521f5d3463e54823d.mockapi.io/catalog), que fornece endpoints para produtos e usuários.
-
-- **Base URL:** `https://68571fd521f5d3463e54823d.mockapi.io/catalog`
-- **Endpoints principais:** `/produtos`, `/produtos/:id`, `/users`
 
 ## Logins de Teste
 
